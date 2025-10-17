@@ -1,1 +1,0 @@
-__all__ = ('test_filter_comments_by_author', 'test_extract_prices','test_get_ordred_products_by_price','test_select_products_by_category','test_get_ordered_comments_by_likes','test_select_top_users_by_rate')
